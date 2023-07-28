@@ -54,7 +54,7 @@ Homepage
 
 
 
-Ignite Feed is built with the following tools and libraries: <ul><li>ReactJS</li><li>ViteJS</li><li>phosphor-react</li></ul>
+Ignite Feed is built with the following tools and libraries: <ul><li>ReactJS</li><li>ViteJS</li><li>phosphor-react</li><li>TypeScript</li></ul>
 
 
 
